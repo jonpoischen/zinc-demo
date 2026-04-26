@@ -1,0 +1,263 @@
+{
+  "en": {
+    "ballBoy1": ["Hey Zinc! Wanna throw the old pigskin with us?"],
+    "ballBoy2": ["I think we're getting pretty good at this!"],
+    "bottle": ["You found a bottle!", "Fill it with a potion!"],
+    "castleDoorman": [
+      "State your business!",
+      "None may enter without Her Majesty's summons!",
+      "Begone at once!"
+    ],
+    "cat1":["Good morning, Zinc! Meow!", "Time to wake up! Meow!"],
+    "cat2":["I!!! SAID!!! WAKE!!! UP!!!", "MEEEOOOWWW!!!", "Meet me in the forest, when you're ready...", "Bye, for now! Purrrrr..."],
+    "cat3": ["Follow me! Meow!"],
+    "cat4": ["There you are, Zinc! Meow!", "There are so many of those smelly foxes around!", "I hate them! They always want to gobble me up! Meow!", "I'm going with you, from here...purrrr...", "Oh! And one more thing! Meow!", "Ignore those trees! They are filthy liars! Meow!", "They hate humans that enter the forest unwelcomed!", "Alright, let's get going! Purr..."],
+    "cat5": ["This is it! Meow!", "We've found it! The Hollow Axe!!!", "Quick, pull it out, Zinc! Meow! Meow!", "Only you can! It's your destiny! Meow! Meow!"],
+    "cat6": ["Meowha ha ha ha!", "You IDIOT!!!", "Do you realize what you've just done? Meow!", "You've freed her, at long last you've freed my Queen!","Now Darkness shall once again rule the land! Meow!", "And I, Nero, shall be by Queen Nythera's side!", "Meowha ha ha!", "She'll finally restore me to my true form!", "See ya later, sucker!!! Meow!"],
+    "chicken": ["Bwok bwok!"],
+    "chickenFarmer":[
+      "Blasted chickens! They took over my house!",
+      "All I hear all night is 'bwok bwok bwok'!",
+      "It's so noisy I have to sleep outside!",
+      "Bwok! Bwok! Bwok!"
+    ],
+    "clothes": ["No need to get changed..."],
+    "crystals": [
+        "Red for heart, blue for mind. In the shards, your power find.",
+        "Purple mends both soul and spell. Drink its glow and all is well."
+    ],
+    "defeatAllHint": ["Return to the room you left behind, and strike the foes for the key you'll find."],
+    "dog": ["Arf! Arf!"],
+    "drawer": ["A dirty sock drawer! Gross!"],
+    "dungeonLocked": ["Locked! Maybe there's some way to open it?"],
+    "dungeonName1": ["The Flooded Crypt"],
+    "flameHint": ["Send the steel through hearth's embrace, to light the dark in a distant place."],
+    "fox": ["Yip yip!"],
+    "gameCornerGuyClosed": ["Looks like you don't have any Zeni!", "You need Zeni to play here! Come back when you're not broke."],
+    "girlNearStatue": ["Grandpa says this was here before him!"],
+    "girlNearCastle": ["They won't let anyone into the castle!", "The guard is really mean!"],
+    "girlOutsideGame": ["I could play games here all day!", "I love 'em, especially the one with the cute bear!"],
+    "gladiatorClosed": ["Hey shrimp! You think you have what it takes?", "Come back when you've gotten some battle experience!"],
+    "historian1": [
+      "I'm studying what happened here, more than a century ago...",
+      "Did you know that Elderbloom was nearly destroyed?",
+      "The Kingdom was saved by one courageous soul, the Knight Copper!",
+      "And that's what I'm researching! I want to know what became of him!"
+    ],
+    "historian2": ["Queen Nythera wasn't always evil, you know.", "My research has led me to believe that the magic she sought...", "corrupted her otherwise good soul.","Perhaps she couldn't forsee the darkness she unleashed?"],
+    "historian3": ["There hasn't been a new King or Queen since Nythera...", "I wish I could be a Queen someday!"],
+    "historyBook1": ["1 - Long ago, the great Kingdom of Elderbloom flourished under Queen Nythera.", "She was beloved and wise, adored by all her subjects."],
+    "historyBook2": ["2 - However, Queen Nythera sought knowledge beyond her mortal limits,", "studying ancient and forbidden magic."],
+    "historyBook3": ["3 - Whispers spread throughout the Kingdom that the Queen no longer slept,", "nor spoke as she once had."],
+    "historyBook4": ["4 - The court grew silent as her eyes began to glow with unnatural light.", "In time, the Queen declared her will: the world would bow to her power."],
+    "historyBook5": ["5 - Few dared resist, for her magic had already begun to twist the land.", "Creatures of fang and shadow emerged where none had walked before."],
+    "historyBook6": ["6 - Beasts became monsters, and monsters became her servants.", "The people shut their gates tight, as their prayers went unanswered."],
+    "historyBook7": ["7 - The Queen's voice carried across the land like a storm that never passed.", "From her dread throne, she commanded an army no blade could easily fell."],
+    "historyBook8": ["8 - Hope waned, and the people spoke her name only in fear.", "Yet from among them rose a Knight, unyielding and unafraid.", "His name was Copper, sworn not to crown, but to the people of Elderbloom."],
+    "historyBook9": ["9 - Copper sought a weapon untouched by the Queen's corruption.", "In secret, the Hollow Axe was forged, a blade that drank in magic."],
+    "historyBook10": ["10 - With axe in hand, Copper marched alone into the Queen's darkened court.", "Their battle shook the Kingdom, echoing through stone and sky."],
+    "historyBook11": ["11 - The Queen's power surged like a storm, but the axe held firm.", "Blow by blow, Copper pressed forward against impossible force."],
+    "historyBook12": ["12 - At last, the Knight struck, and the Hollow Axe drank deeply of her power.", "The Queen fell, her magic sealed within the weapon itself,","and her monstrous army scattered to the four winds."],
+    "historyBook13": ["13 - But victory had come at a terrible cost,", "for the Knight's body had been broken beyond healing.", "Knowing the danger of the axe, Copper carried it far into the Silent Forest,", "hiding it deep within the trees, where it passed into legend.", "Some say the forest swallowed the axe,", "others believe it waits for the chosen one, should darkness ever return to the land."],
+    "historyBookCopper": ["Copper - The Knight of Elderbloom, who stood when all others fell.", "It is said he feared no darkness, for his courage burned brighter than any evil."],
+    "kidOutsideGame": ["Aww...I got kicked outta the Game Corner for cheating!"],
+    "librarian": [
+      "If you want to know about the \"Battle of Queen and Knight\"...",
+      "then start from the left! All these books contain invaluable",
+      "knowledge of the history of this Kingdom!"
+    ],
+    "mailbox": ["That mail doesn't belong to you!"],
+    "nickel": [
+      "Hey Zinc! It's me, your father, Nickel!",
+      "Going adventuring? Maybe I'll go exploring with you later...",
+      "I'm stuck here for now, guarding the entrance to town...",
+      "Anyways, stay outta trouble, my boy!"
+    ],
+    "oldMan": [
+      "Ahh...",
+      "It is such a beautiful day...",
+      "Like a dream!"
+    ],
+    "oldWoman": ["My useless husband just stares at the ocean all day!"],
+    "pumpkin": ["The pumpkin looks happy."],
+    "runningKid": ["I'm training to become a soldier! Gotta run to build muscle!"],
+    "signBarracks": ["Barracks"],
+    "signJungleAndPlains": [
+      "West: The Kingdom of Elderbloom",
+      "East: The Emerald Plains", 
+      "South: Primal Jungle"
+    ],
+    "signLibrary": ["The Royal Library of Elderbloom"],
+    "signZincsHouse": ["Zinc's House"],
+    "soldier1": [
+      "All we do are training exercises!",
+      "When will we get to see some real action?"
+    ],
+    "soldier2": [
+      "You're a bit young, Zinc!",
+      "Why don't you come back in a few years?",
+      "You'll make a fine soldier then!"
+    ],
+    "soldier3": ["Urgh...ahh..."],
+    "soldier4": [
+      "My buddy was hurt in training!",
+      "Maybe I shouldn't have hit him over the head..."
+    ],
+    "soldier5": [
+      "Don't mind that soldier by the entrance.",
+      "He's just angry to have been assigned guard duty!"
+    ],
+    "soldier6": ["Sorry kid! No entry!"],
+    "soldier7": ["Shhhh!", "Please don't tell my boss I'm slacking. Soldiers need a break, too."],
+    "statue": ["What an odd looking statue..."],
+    "trainingManual1": [
+      "A training manual!",
+      "Try rolling to evade attacks and avoid taking damage!"
+    ],
+    "trainingManual2": [
+      "A training manual!",
+      "Monsters won't show you mercy!", 
+      "Swing your weapon with all your might!"
+    ],
+    "trainingManual3": [
+      "A training manual!",
+      "Lock-on to enemies for more accuracy!",
+      "Ranged combat becomes a cinch!"
+    ],
+    "tree1": ["No...turn back..."],
+    "tree2": ["There is nothing...", "...to the right...of me..."],
+    "tree3": ["Go...no further!"],
+    "tree4": ["Hear...us...go back..."],
+    "tree5": ["Leave...this place..."],
+    "tree6": ["Cursed...the forest will be..."],
+    "tree7": ["You...know not...what you do...", "Don't...remove it..."],
+    "tree8": ["What...have you...done?","Too...late...too..."],
+    "tree9": ["There's...nothing...to the right...","...for you...fool..."],
+    "tree10": ["The curse...the curse!!!"],
+    "tree11": ["Help...us..."],
+    "tree12": ["Betrayed...you've been betrayed..."],
+    "tree13": ["Who will...deliver us now...?"],
+    "tree14": ["Why? Why did...you...? Remove...it?"],
+    "tutorialBossQueen": [
+      "Keh! Heh! Heh! You dare challenge me? ME!?",
+      "You puny, little orange Knight!?",
+      "Insolence! Nothing has ever survived my magic!",
+      "This world is MINE! Mine to rule!",
+      "I will crush the will of all mankind!",
+      "All shall bow down or be broken in fear!",
+      "You pathetic worm! You'll never defeat me! NEVER!",
+      "But enough talk! Prepare to meet your doom!"
+    ],
+    "tutorialBossQueenDead": [
+      "What!? No!!! This is impossible!",
+      "Defeated by the likes of you!? A pathetic Knight?",
+      "That...that axe!? What is happening to me!?",
+      "Arghhhhhhhh!!!"
+    ],
+    "tutorialEnding": [
+      "Barely clinging to life, the Knight claimed a hollow victory.",
+      "Queen Nythera's dark essence was consumed, sealed within the axe.",
+      "It sunk deep within a stump, buried in silence to be forgotten.",
+      "Beneath the ancient trees, history turned to myth, and myth to dust.",
+      "There the axe sleeps, lest the Age of Darkness should return once again..."
+    ],
+    "tutorialOpening": [
+      "This must be the Dark Queen's lair!", 
+      "Nythera! Your reign of terror is over!"
+    ],
+    "tutorialSkeletons": [
+      "Has she raised the undead to do her bidding?",
+      "Hmph! A skeleton's bones cannot pierce my shield or armor!",
+      "You'll have to do better than that, Nythera!"
+      ],
+    "tutorialSlimes": ["Slimes? Ha! They pose no threat to me at all!", "Get out of my way!"],
+    "tutorialWeak": ["Gah..."],
+    "uniforms": ["Filled with uniforms and helmets. Better not touch these!"],
+    "whip": [
+      "Wow! What is this thing? A strange, ethereal whip? Awesome!",
+      "Too bad we ain't hunting vampires though...",
+      "What a shame, seems like it has an excellent, long-range attack!",
+      "Wait a second! Maybe you can tie it to the Hollow Axe's hilt?"
+    ]
+  },
+  "fr": {
+    "crystals": [
+    "Rouge pour le cœur, bleu pour l'esprit. Dans ces éclats, la force jaillit.",
+    "Le pourpre guérit l'âme et le sort. Buvez sa lueur, devenez plus fort."
+    ],
+    "defeatAllHint": ["Retourne dans la pièce que tu as quittée, et frappe l'ennemi pour la clé trouver."],
+    "flameHint":["Passe le fer par le foyer, pour le lointain illuminer."]
+  },
+  "it": {
+    "crystals": [
+      "Rosso per il cuore, blu per la mente. Il potere è qui, presente.",
+      "Il viola cura anima e magia. La sua luce scaccia ogni agonia."
+    ],
+    "defeatAllHint": ["Torna nella stanza che hai lasciato, e abbatti i nemici per il premio trovato."],
+    "flameHint": ["Lancia il ferro nel fuoco ardente, per accender la luce più distante."]
+  },
+  "de": {
+    "crystals": [
+      "Rot für das Herz, Blau für den Geist. Spür die Kraft, die das Glas verheißt.",
+      "Lila heilt Seele und Zauberkraft. Sein Glanz Geborgenheit erschafft."
+    ],
+    "defeatAllHint": ["Kehr in den Raum, den du verließest eben, besieg die Feinde, wird der Schlüssel gegeben."],
+    "flameHint":["Wirf den Stahl durchs Feuer rein, schenk der Ferne hellen Schein."]
+  },
+  "es": {
+    "crystals": [
+      "Rojo es vida, azul es mente. Busca el poder en el fragmento ardiente.",
+      "Púrpura sana alma y hechizo. Bebe su luz, el bien es preciso."
+    ],
+    "defeatAllHint": ["Vuelve a la sala que atrás dejaste, y vence al enemigo por la llave que buscaste."],
+    "flameHint":["Lanza el acero al fuego voraz, y en la distancia la luz prenderás."]
+  },
+  "cn": {
+    "crystals": [
+      "红愈心，蓝愈神。晶石之中，力量永存。",
+      "紫石双修，魂法同源。沐浴光芒，万事皆安。"
+    ],
+    "defeatAllHint": ["重回刚才离去处，扫清余孽得钥匙。"],
+    "flameHint":["利刃穿火影，远灯照长明。"]
+  },
+  "ja": {
+    "crystals": [
+      "赤は命、青は知恵。欠片に眠る、力を得よ。",
+      "紫は魂と魔法を癒す。光を浴びて、全て満たさん。"
+    ],
+    "defeatAllHint": ["通りし部屋へと引き返し、仇なす者を討って鍵を得よ。"],
+    "flameHint":["刃を火にくぐらせて、遠くの闇を照らせ。"]
+  },
+  "ko": {
+    "crystals": [
+      "빨강은 생명, 파랑은 정신. 조각 속에서 힘을 얻으리.",
+      "보랏빛은 영혼과 마법을 치유하니. 그 빛 아래 평온하리라."
+    ],
+    "defeatAllHint": ["지나온 방으로 다시 돌아가, 적을 물리치고 열쇠를 얻어라."],
+    "flameHint":["날붙이를 불꽃 속에 던져, 먼 곳의 어둠을 밝혀라."]
+  },
+  "ru": {
+    "crystals": [
+      "Красный — для сердца, синий — для ума. В осколках скрыта сила сама.",
+      "Пурпур излечит дух и заклятье. В сиянии камня — жизни объятье."
+    ],
+    "defeatAllHint": ["Вернись в покой, что был за спиной, срази врагов и ключ забирай свой."],
+    "flameHint":["Сквозь пламя сталь свою метни, огонь далекий ты зажги."]
+  },
+  "pl": {
+    "crystals": [
+      "Czerwień dla serca, niebieski dla ducha. W tych odłamkach moc się rucha.",
+      "Fiolet leczy duszę i czary. Pij jego blask, poczuj dary."
+    ],
+    "defeatAllHint": ["Wróć do pokoju, który został w tyle, i zgładź wrogów, by klucz zyskać w chwilę."],
+    "flameHint":["Przez płomień rzuć stalowe lico, by rozbłysło dalekie zniczowisko."]
+  },
+  "tr": {
+    "crystals": [
+      "Kırmızı can, mavi zihin için. Gücü bu taşlarda hissedin.",
+      "Mor olan hem ruh hem büyü sunar. Işığında tüm dertler son bulur."
+    ],
+    "defeatAllHint": ["Geride bıraktığın odaya geri dön, düşmanı yenince anahtarı bulup sevin."],
+    "flameHint":["Çeliği ateşten geçirip fırlat, uzakta sönük olanı parlat."]
+  }
+}
