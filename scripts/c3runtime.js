@@ -1600,9 +1600,7 @@ self.C3_ExpressionFuncs = [
 		},
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
-			const v1 = p._GetNode(1).GetVar();
-			const v2 = p._GetNode(2).GetVar();
-			return () => and((and(((and("fps: ", f0()) + "\n") + "hp: "), v1.GetValue()) + "/"), v2.GetValue());
+			return () => and("fps: ", f0());
 		},
 		p => {
 			const v0 = p._GetNode(0).GetVar();
@@ -1626,11 +1624,6 @@ self.C3_ExpressionFuncs = [
 		() => "storm",
 		() => 50,
 		() => "Forest",
-		() => -717750020342783,
-		() => -1023,
-		() => -717750023016447,
-		() => "ReplaceColor",
-		() => "rain",
 		() => "Zones",
 		() => 8,
 		p => {
@@ -1772,6 +1765,7 @@ self.C3_ExpressionFuncs = [
 			return () => C3.toDegrees(C3.angleTo(n0.ExpObject(), n1.ExpObject(), n2.ExpObject(), n3.ExpObject()));
 		},
 		() => 100,
+		() => -1023,
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			return () => f0(0, 1, 2, 3, 4, 5, 6, 7);
@@ -1922,6 +1916,7 @@ self.C3_ExpressionFuncs = [
 			return () => (n0.ExpObject() - 8);
 		},
 		() => "attackdown2",
+		() => "rain",
 		() => "Player",
 		() => "getItem",
 		() => 549,
