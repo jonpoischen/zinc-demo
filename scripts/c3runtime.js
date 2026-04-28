@@ -2167,7 +2167,10 @@ self.C3_ExpressionFuncs = [
 			return () => (v0.GetValue() * v1.GetValue());
 		},
 		() => "blueMP",
-		() => "purpleBoth"
+		() => "purpleBoth",
+		() => "Bell",
+		() => "Animation 1",
+		() => 2.5
 ];
 
 
