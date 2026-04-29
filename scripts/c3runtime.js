@@ -1763,7 +1763,7 @@ self.C3_ExpressionFuncs = [
 		() => "Lock-On",
 		() => -32,
 		() => "Monsters",
-		() => "Skeletons",
+		() => "Bats",
 		p => {
 			const n0 = p._GetNode(0);
 			const n1 = p._GetNode(1);
@@ -1772,6 +1772,7 @@ self.C3_ExpressionFuncs = [
 			const v4 = p._GetNode(4).GetVar();
 			return () => C3.clamp(n0.ExpObject(), (n1.ExpObject() + v2.GetValue()), (n3.ExpObject() - v4.GetValue()));
 		},
+		() => 100,
 		p => {
 			const n0 = p._GetNode(0);
 			const n1 = p._GetNode(1);
@@ -1779,22 +1780,17 @@ self.C3_ExpressionFuncs = [
 			const n3 = p._GetNode(3);
 			return () => C3.toDegrees(C3.angleTo(n0.ExpObject(), n1.ExpObject(), n2.ExpObject(), n3.ExpObject()));
 		},
-		() => 100,
 		() => -1023,
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			return () => f0(0, 1, 2, 3, 4, 5, 6, 7);
 		},
 		() => 250,
-		p => {
-			const f0 = p._GetNode(0).GetBoundMethod();
-			return () => f0(0, 45, 90, 135, 180, 225, 270, 315);
-		},
-		() => "moveDuration",
-		() => "Slime",
-		() => "idle",
-		() => "attack",
-		() => 20,
+		() => "flying",
+		() => "awake",
+		() => 60,
+		() => 18,
+		() => "attackAgain",
 		() => 0.1,
 		p => {
 			const n0 = p._GetNode(0);
@@ -1802,6 +1798,18 @@ self.C3_ExpressionFuncs = [
 			return () => (n0.ExpInstVar_Family() / v1.GetValue());
 		},
 		() => 500,
+		() => 40,
+		() => "sleep",
+		() => "Skeletons",
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			return () => f0(0, 45, 90, 135, 180, 225, 270, 315);
+		},
+		() => "moveDuration",
+		() => "Slimes",
+		() => "idle",
+		() => "attack",
+		() => 20,
 		() => "Fishmen",
 		() => "ReadyAttack",
 		p => {
@@ -2058,7 +2066,6 @@ self.C3_ExpressionFuncs = [
 		},
 		() => "move",
 		() => "Tutorial2",
-		() => "sleep",
 		() => -45,
 		() => "cat1",
 		() => "cat2",
